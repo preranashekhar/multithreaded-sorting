@@ -1,4 +1,4 @@
-# multithreaded_application
+# multithreaded-sorting
 To demonstrate the performance of an application using multi-threads
 
 # Results
